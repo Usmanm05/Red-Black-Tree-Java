@@ -1,7 +1,6 @@
 # Red-Black Tree — Java
 
-An implementation of a self-balancing binary search tree in Java that maintains logarithmic height through coloring and rotation rules.  
-This project demonstrates a deep understanding of data structures, recursion, and tree balancing algorithms commonly used in systems and database indexing.
+An implementation of a self-balancing binary search tree in Java that maintains logarithmic height through coloring and rotation rules. This project demonstrates a deep understanding of data structures, recursion, and tree balancing algorithms commonly used in systems and database indexing.
 
 ---
 
