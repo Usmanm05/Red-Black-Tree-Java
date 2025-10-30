@@ -17,7 +17,7 @@ This implementation includes:
 
 ---
 
-## 🧩 Features
+## Features
 - **Generic Design:** Supports any comparable data type.  
 - **Self-Balancing BST:** Ensures logarithmic height for all operations.  
 - **Rotations & Color Flips:** Corrects structural violations recursively.  
